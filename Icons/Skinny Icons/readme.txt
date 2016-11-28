@@ -1,0 +1,1 @@
+Icon set kindly contributed by Ian Yates (http://www.snaptin.com). No attribution required.

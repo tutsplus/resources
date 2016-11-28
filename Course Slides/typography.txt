@@ -1,0 +1,22 @@
+Text Sizes/Font Family
+
+If you’d prefer to set up your own slide template, here are the details you’ll need:
+
+Heading 1
+Helvetica Bold at 51px with a line-height of 52px.
+
+Heading 2
+Helvetica Bold at 28px with a line-height of 26px.
+
+Heading 3
+Helvetica Bold at 21px with a line-height of 26px.
+
+Paragraph
+Helvetica Regular at 16px with a line-height of 26px (1.625em).
+
+Supporting text
+Helvetica Regular at 12px with a line-height of 26px.
+
+A good colour for all text would be #2a3745
+
+A good colour for the background (to match the slide templates) would be #f8f4e7
